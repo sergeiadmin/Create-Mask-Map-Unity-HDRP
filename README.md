@@ -1,0 +1,2 @@
+# Create Mask Map Unity HDRP
+ In summary, the "Create Mask Map Unity HDRP" program simplifies and streamlines the process of generating mask maps for Unity HDRP projects. Its user-friendly interface, real-time previews, and ability to customize mask maps make it an indispensable tool for game developers and artists seeking to enhance their workflow and achieve outstanding visual results in Unity's High Definition Render Pipeline.
